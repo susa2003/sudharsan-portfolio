@@ -56,7 +56,7 @@ function About() {
               transition={{ duration: 0.6 }}
               className="text-base leading-relaxed text-text-secondary sm:text-lg"
             >
-             I’m Sudharsan K, a B.Tech Information Technology student and Full Stack Developer based in Tamil Nadu, India. I enjoy building modern web applications using React, Node.js, Java, Python, and databases such as MongoDB, MySQL, and PostgreSQL.
+             I’m Sudharsan K, a B.Tech Information Technology student and Full Stack Developer passionate about building modern web applications using React, Node.js, Java, Python, and databases such as MongoDB, MySQL, and PostgreSQL.
             </motion.p>
             <motion.p
               initial={{ opacity: 0, y: 20 }}
@@ -65,7 +65,7 @@ function About() {
               transition={{ duration: 0.6, delay: 0.1 }}
               className="mt-4 text-base leading-relaxed text-text-secondary sm:text-lg"
             >
-              My internships at the French Institute of Pondicherry and Thiranax gave me practical experience working with real projects, improving existing applications, and building full-stack solutions. Alongside my internships, I’ve built projects including a Portfolio CMS, E-Commerce Website, Blog Website, and Task Management System.
+              My internships at the French Institute of Pondicherry and Thiranax gave me practical experience working on real projects, improving existing applications, and building full-stack solutions. Alongside my internships, I’ve built projects including a Portfolio CMS, E-Commerce Website, Blog Website, and Task Management System.
             </motion.p>
 
             <div className="mt-8 space-y-4">
