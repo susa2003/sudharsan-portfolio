@@ -138,7 +138,7 @@ export const experience = [
     period: "2025",
     type: "Internship",
     description:
-      "Built and shipped reusable React components for internal product dashboards, collaborating directly with senior engineers on code review and performance optimization.",
+      "Worked on maintaining and improving the organization's website using Wagtail CMS, Django, and PostgreSQL, with a focus on content management and search functionality.",
     highlights: [
       "Worked with Wagtail CMS to maintain and enhance the organization's website.",
       "Improved the website's search functionality, especially incorrect search results from the PostgreSQL-backed search.",
@@ -153,7 +153,7 @@ export const experience = [
     period: "2026",
     type: "Internship",
     description:
-      "Contributed across the stack — from schema design to UI implementation — on client-facing web applications built with the MERN stack.",
+      "Worked on multiple full-stack web applications, gaining hands-on experience in frontend and backend development, database integration, and version control.",
     highlights: [
       "Developed and worked on multiple web applications during the internship.",
       "Built a Portfolio CMS, E-Commerce Website, Blog Website, and Task Management System.",
