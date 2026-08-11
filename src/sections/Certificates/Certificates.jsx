@@ -19,7 +19,7 @@ function Certificates() {
       <Container>
         <SectionTitle
           eyebrow="Certifications"
-          title="Credentials that back up the code"
+          title="Professional experience backed by verified credentials"
           highlight="back up"
         />
 
