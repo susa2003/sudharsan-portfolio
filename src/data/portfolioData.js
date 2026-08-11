@@ -188,6 +188,7 @@ export const projects = [
     tech: ["React", "Node.js", "Express.js", "MySQL"],
     githubUrl: "https://github.com/susa2003/portfolio-cms", //https://github.com/susa2003/portfolio-cms
     liveUrl: "https://portfolio-cms-delta-two.vercel.app",
+     image: "/projects/portfolio-cms.png",
     featured: true,
   },
   {
